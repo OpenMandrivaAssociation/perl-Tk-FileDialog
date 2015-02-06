@@ -1,6 +1,6 @@
 %define name	perl-Tk-FileDialog
 %define version	1.3
-%define release 11
+%define release 12
 
 Summary:	Tk::FileDialog Perl module
 Name:		%name
