@@ -9,7 +9,7 @@ Release:	%release
 License:	GPL
 Group:		Development/Perl
 Source0:	http://cpan.uwinnipeg.ca/cpan/authors/id/B/BP/BPOWERS/Tk-FileDialog-%{version}.tar.bz2
-Url:		http://www.cpan.org
+Url:		https://www.cpan.org
 BuildRequires:	perl-devel
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildArch:	noarch
